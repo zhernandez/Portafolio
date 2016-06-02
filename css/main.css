@@ -18,7 +18,7 @@ body#home{
 h1.me{
 	font-weight: bolder;
 	font-size: 666%;
-	margin-top: 2.5em;
+	margin-top: 1.5em;
 }
 h2.me{
 	font-size: 400%;
@@ -361,6 +361,6 @@ a{
 }
 .ico{
 	margin: 0 35% 0 40%;
-	width: 200px;
+	width: 222px;
 	height: auto;
 }
