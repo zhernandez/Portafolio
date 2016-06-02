@@ -7,7 +7,7 @@ $('body').colorScroll({
         position: '0%'
     }, {
         color: '#C1C2D8',
-        position: '50%'
+        position: '60%'
     }, {
         color: '#EBC8BD ',
         position: '80%'
