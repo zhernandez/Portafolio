@@ -367,3 +367,9 @@ a{
 .marln{
   margin-left: -0.5em;
 }
+.marneg{
+  margin: 0 -1em -2em;
+}
+.martn{
+  margin-top: -1.7em;
+}
