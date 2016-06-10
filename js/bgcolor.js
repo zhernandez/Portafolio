@@ -31,7 +31,7 @@ $('body').colorScroll({
         position: '0%'
     }, {
         color: '#C1C2D8',
-        position: '25%'
+        position: '35%'
     }, {
         color: '#B4D5EB',
         position: '60%'
