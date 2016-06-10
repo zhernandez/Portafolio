@@ -31,13 +31,13 @@ $('body').colorScroll({
         position: '0%'
     }, {
         color: '#C1C2D8',
-        position: '35%'
+        position: '40%'
     }, {
         color: '#B4D5EB',
-        position: '60%'
+        position: '70%'
     }, {
         color: '#D9F1C1',
-        position: '70%'
+        position: '90%'
     }]
 })
 
